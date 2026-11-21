@@ -34,5 +34,5 @@ instance. Node 22, no dependencies, no install step.
 ## Results
 
 On the kit's practice set it matches the push-optimal count on all 5 levels
-(13, 16, 29, 47, 60 pushes) for a score of 1,000,000, and the same on 10
+(13, 16, 29, 47, 60 pushes) for a score of 1,000,000, and the same on 20
 further sets drawn with the kit's own generator.
